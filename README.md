@@ -3,3 +3,6 @@
 This would be the repository of Matlab code and example data for PSYC9080.
 
 Nikita Kuznetsov
+
+###
+[Awesome Biomechanics](https://www.github.com/modenaxe/awesome-biomechanics)
