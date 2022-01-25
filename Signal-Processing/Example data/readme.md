@@ -1,0 +1,1 @@
+Sample data.xls contains a single column of heel marker data during over ground walking which was collected using a Vicon camera system. The values represent the movement of the heel in the vertical direction for two steps. This data was collected at 120 Hz. 
