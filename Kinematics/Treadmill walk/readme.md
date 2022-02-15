@@ -11,7 +11,7 @@ R_ASIS - anterior illiac crest
 R_PSIS - posterior illicac crest
 
 Placement picture:
-![WalkCoordSyst](https://user-images.githubusercontent.com/72103196/154151828-9ece5745-bf51-42fe-8c3d-acd662e59ab4.PNG)
+![IMG_7353](https://user-images.githubusercontent.com/72103196/154151951-7a95131f-b1da-4b04-88ef-61cdf5db74e7.jpg)
 
 Coordinate system definition:
 ![WalkCoordSyst](https://user-images.githubusercontent.com/72103196/154151263-cdc28bc6-e3df-4fa3-829c-91a3fbd595e5.PNG)
