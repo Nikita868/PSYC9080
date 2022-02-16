@@ -2,7 +2,9 @@ Data collected for PSYC9080 HW3. Date: 2/15/22
 
 Sampling rate: 120 Hz
 
+
 Marker names:
+
 R_1M - first metatrasal base of R foot
 
 R_5M - fifth metatarsal base 
